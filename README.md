@@ -24,3 +24,14 @@ Which means that a lot of source code is written by novice programmers. Which al
 won't be forgiven for sloppy code, no matter how mature or new you are.
 
 Remember, my programmer friend - next time you get lazy or sloppy, lives are at stake! ;)
+
+# Tips
+
+The tips are divided into somewhat arbitrary categories:
+* [Development process](process.md)
+* [Professional attitude](attitude.md)
+* [Code Style](style.md)
+* [Documentation](documentation.md)
+* [Testing](testing.md)
+
+Click on the links to see tips in each category.
