@@ -18,10 +18,6 @@ TODO - code a bit every day, keep the context warm
 
 TODO - use the practices you believe in, even when there is no time
 
-## The perfect project is now
-
-TODO - there is no "when I will have a proper project, then..."
-
 ## Use a proper IDE properly
 
 TODO:
