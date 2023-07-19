@@ -31,8 +31,8 @@ If you look at professionals, the quality of their work today and 10 years ago i
 It feels like the pro today is a completely different person. How do you get from a novice to a pro?
 You learn and improve, step by step. Exponential growth applies to knowledge as well. If you get 1%
 better every week, it may feel like a tiny improvement. But if you keep that steady 1%/week
-improvement pace, you are 67% better in a year and around 17600% better in ten years! That's an
-insane improvement, isn't it?
+improvement pace, you will be 67% better in a year and around 17600% better in ten years! That's an
+insane improvement, you'll be a completely different person!
 
 Try to learn something in every project, in every sprint, every day. It does not necessarily mean
 you need to apply a new Javascript framework in every project. You need to also be efficient at what
@@ -49,7 +49,53 @@ Remember to _sharpen the saw_!
 
 ## Study theory, don't just try
 
-TODO
+Students often like to learn by example. Say you want to learn the ReactJS framework. It is tempting
+to watch a guy on YouTube building a project with ReactJS and follow along. There is so much content
+out there that you can literally find an example for every project you can imagine. So you watch
+that guy, you copy his/her code. You get the thing done. Now what? Did you understand how things
+work with ReactJS? What happens when you need to build another project with ReactJS?
+
+If you don't learn what the framework offers, you never get past the stage of a YouTube junkie, who
+clings to someone else's help every time you need to build something. It's like needing your big
+brother to always protect you. Such approach increases your inner insecurity. Also, you never get
+effective in applying the tool, because you don't know what it offers. You have seen only one small
+side of it, as explained by a youtuber (who probably does not really understand the tool anyway).
+
+The point is, you should learn the tools, technologies and techniques. By "learn" I mean "study some
+theory". The term _theory_ has got a negative connotation in the society, and that is a shame. We
+need action and practice, of course. But in many cases theory is what separates OK from good. It
+makes the difference between "can DO it" and "UNDERSTAND HOW to do it and WHY". You can hit a screw
+with a hammer (or with a stone), and it will work if you are strong and persistent enough. But
+wouldn't it be nice to know _a bit of theory_ about screws and screwdrivers, including the electric
+ones? Not only would the work be easy and give you more pleasure, but also the quality of the result
+would increase tremendously. Another important effect: your sense of self-worth and confidence would
+improve. When you lay in your bed after a long day of _screwing_ you would think "phew, I
+accomplished a lot today".
+
+Btw, you don't need to know about screw sizes, angles of the threads or metal types. You don't need
+to know how screws are produced. You need to only know a bit about the difference between nails and
+screws, their use indoors and outdoors, available tools, etc. Learning theory doesn't mean
+remembering formulas or theorems. It means understanding the philosophy behind the tools and
+techniques you use, having an internal reflection on why you should or shouldn't use it in your
+projects. It means taking new jigsaw puzzle pieces and putting them in the right places in your
+brain. When you do this, with every new project your competence gets wider and richer.
+
+If you are a student, you can ask your teacher. Don't just accept the slides and lectures they throw
+at you. If you have holes in your understanding, ask the teacher for help. The teacher will usually
+like it, because it means someone is interested in the stuff they are talking about. You fill the
+gaps in your understanding and the teacher feels happy. Win-win :)
+
+Speaking about teachers... One good way to learn is preparation for teaching. If you had to give a
+20-minute lecture on ReactJS (or any other topic), what would you talk about? Which are the most
+important concepts in ReactJS? What problems does it solve? What new problems does it introduce?
+Make a list of the important concepts. Then ask a question - do I understand how these concepts work
+and why? Now go out and use any learning resources you can and study until you understand it, use
+the goddamn YouTube if you will.
+
+Wouldn't it be nice to be the wise guy whom people go to, because they know that you _know_?
+Wouldn't it be great to work in a team where everyone shares the philosophy of understanding instead
+of just doing? How would you feel about working in such a group of wise experts? Or would you rather
+prefer to work in a team where the work stops when YouTube has a maintenance break?
 
 ## Take care of your physical body
 
