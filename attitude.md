@@ -99,7 +99,39 @@ prefer to work in a team where the work stops when YouTube has a maintenance bre
 
 ## Take care of your physical body
 
-TODO
+I hate to break the news, but as much as you may love programming, you are still a sack of meat,
+bones and some fluids. That sack of bio-material, also known as "the physical body" needs some care.
+
+Our bodies are very intelligent systems. Resource prioritization is an automatic function of the
+body. In short - you get more of what you need, and you lose what you don't use. We constantly send
+messages to the "logistics centers" of our body. Don't believe in it? Try
+training [the biceps](https://www.youtube.com/watch?v=v0deQPDVFZ8) of your left arm (and only it)
+actively for 30 days and see how it grows in comparison to other muscles you don't train.
+
+We have hundreds of muscles, bones and joints in our bodies. But we normally use a very limited set
+of those. If all you do is sit in a chair in front of a screen for 8+ hours every day, what message
+are you sending to the body? You are actively saying "Hey, listen, pal. As you may have noticed, I'm
+very glad in sitting - both at the office and at home. Could you be so kind and store some more fat
+on my bum, so that sitting is more comfortable? If you need some resources, take it from the muscle
+on my legs and arms, I don't use them actively anyway."
+
+This is not a fitness website and I won't talk long about the right techniques for exercise. The
+important thing is - you need to keep your body alive and active if you want to be able to work
+actively for many years. Just find the activities you like to do. Go hiking, jogging, do group
+training, weight lifting or whatever. Keep the blood circulating, bring the oxygen to your brain.
+Take care of your body so that you can sleep well at night and recover for tomorrow.
+
+Another important principle of exercise: work in shifts, have breaks in between. Your muscle does
+not grow during the exercise. You actually shred it into pieces during a good exercise. The muscle
+grows while you sleep. In the same way, the neural networks in your brain actually grow stronger
+while you take a break.
+
+I don't like the term "work-life balance", because I see work as an important part of life. But the
+idea is an important one nevertheless. Have some variety in your life: family, work, exercise,
+hobbies, and rest. Mix all of those, as no single component will make you happy. Sometimes the best
+way to increase performance at work is to add some time for exercise to your schedule.
+
+Think about the messages you want to send to your body!
 
 ## Put away devices
 
