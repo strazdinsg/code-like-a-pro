@@ -135,7 +135,29 @@ Think about the messages you want to send to your body!
 
 ## Put away devices
 
-TODO
+Coding is an activity requiring deep focus. It can't be combined with many small distractions. If
+someone tells me "I was struggling with this coding issue for hours," the first question that pops
+in my mind is "did you really actively focus on it, or did you check your phone every 5 minutes?"
+
+Here are some tips regarding the use of smartphones and other devices in case you want to be
+effective in software development work:
+
+* Put away devices and any other notification-sources while you are in deep focus mode. I would
+  normally turn off the sound on my phone and put it screen-down. If you have some potential
+  emergency calls (your wife going into labor), add these people into an emergency list and make
+  their calls come through even when you are in silent mode. Most calls are not as important as 
+  you may think. There are very few things in life which can't wait for an hour or two.
+* To avoid the stress for missing something important, check your phone periodically, for example,
+  once every hour.
+* Decide on a specific time in the evening (say 22:00) and put away all devices at that time. Read a
+  book (a paper book, or Kindle) if you can't fall asleep. But don't look into a screen, don't watch
+  shorts "because you can't fall asleep anyway". Using devices late in the night is one of the main
+  enemies of a good nights sleep. A person without a good sleep is a tired, angry, unmotivated and
+  unproductive person. I hear so many students saying "I have problems sleeping". It is not a
+  coincidence that most of them are either gamers or are addicted to their devices.
+
+In this age we all are addicted to devices and social media. We can't live without them. I'm not
+asking you to quit. I'm asking you a question: who is in charge - you or your devices?
 
 ## The perfect project is now
 
