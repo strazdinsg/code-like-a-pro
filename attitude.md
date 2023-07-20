@@ -143,10 +143,10 @@ Here are some tips regarding the use of smartphones and other devices in case yo
 effective in software development work:
 
 * Put away devices and any other notification-sources while you are in deep focus mode. I would
-  normally turn off the sound on my phone and put it screen-down. If you have some potential
-  emergency calls (your wife going into labor), add these people into an emergency list and make
-  their calls come through even when you are in silent mode. Most calls are not as important as 
-  you may think. There are very few things in life which can't wait for an hour or two.
+  normally turn off the sound on my phone and put it screen-down. There are very few things in life
+  which can't wait for an hour or two. If you have some potential emergency calls (your wife going
+  into labor), add these people into an emergency list and make their calls come through even when
+  your phone is in silent mode.
 * To avoid the stress for missing something important, check your phone periodically, for example,
   once every hour.
 * Decide on a specific time in the evening (say 22:00) and put away all devices at that time. Read a
@@ -161,4 +161,28 @@ asking you to quit. I'm asking you a question: who is in charge - you or your de
 
 ## The perfect project is now
 
-TODO - there is no "when I will have a proper project, then..."
+When I see some sloppy performance in student projects, I often hear "yes, we know, but we did not
+have time. In a real project, we would do it better, of course."
+
+What is a "real project"? When will you have your first real project? When you retire? Life is what
+passes by while we wait for the perfect project to arrive.
+
+Let's stop the attitude "this time I'm a hurry, I will do it properly when I have time"! The perfect
+project is now! Work on this project as if this is the most important project in your life. And in a
+sense it is, at least for now. Otherwise - why do it? (BTW, if you have too many projects, perhaps
+you should drop some of them and work on a handful you can manage)
+
+In all the projects the budget (time and/or money) is always limited. You never have enough time to
+work on all the things you have in your mind. The meaning of the word "prioritization" is
+"deciding which things NOT to do". Prioritize every project! The essence of agile development is
+daring to ask "what is the most important thing to do for the project right now"? If this is a
+project for a paying customer - what will bring the business value? In a school project you can
+always ask - how will I get most relevant learning out of this?
+
+If you are a computer science student, should you learn programming patterns and structuring your
+code, or is it more valuable to spend hours on creating a nice logo for your website? If you don't
+clean your code and don't document it in your school project, when will you get into the habit of
+documenting it?
+
+Treat every project as a 100% real project (unless you wish to become a 50% real software
+developer)!
