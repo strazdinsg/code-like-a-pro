@@ -90,21 +90,37 @@ There are some typical conventions in programming. For example, for getting a si
 typically NOT changing any state of the object, just getting the value), you have the _getter_
 functions: `getName`, `getAge`, etc. You don't call them `fetchName`, or `passName`. _Fetch_
 would give an impression that this name is fetched from somewhere - perhaps from a database, from a
-file, or over the network somewhere. If you have a function which simply returns a `name` 
+file, or over the network somewhere. If you have a function which simply returns a `name`
 variable, just call it `getName`, etc.
 
-Similarly, the setter methods. Don't call it `updateName` or `resetName`, call it `setName`, 
-unless you are really doing something more than just setting the value.
+Similarly, the setter methods. Don't call it `updateName` or `resetName`, call it `setName`, unless
+you are really doing something more than just setting the value.
 
-When you use specific frameworks or programming patterns, there are standard names. `Listener`, 
-`Event`, etc. Frameworks such as Spring have classes and/or interfaces such as `Repository`, 
-`Controller`, `Service`. Name your classes in accordance to the default patterns. How to know 
-those patterns? Study some [theory](attitude.md#study-theory-dont-just-try) ;)
- 
+When you use specific frameworks or programming patterns, there are standard names. `Listener`,
+`Event`, etc. Frameworks such as Spring have classes and/or interfaces such as `Repository`,
+`Controller`, `Service`. Name your classes in accordance to the default patterns. How to know those
+patterns? Study some [theory](attitude.md#study-theory-dont-just-try) ;)
 
 ## One responsibility per class and function
 
-TODO
+You have probably heard the principle of low coupling and high cohesion? Well, this tip is about the
+cohesion or responsibility. You should divide your code so that every class and every function has a
+single responsibility, at a single level. How do you know when it has too much responsibility? Try
+to explain it to a friend (or yourself). If you use too many "and" words, it probably has too many
+responsibilities.
+
+Typical cases (code smells) when you want to split a function or class into two:
+
+* Combining responsibilities at different levels. For example, business logic (calculations)
+  and formatting in the same function (user interface).
+* An "and word" in the name.
+* The code of the function is longer than one screen (over 120 lines).
+* Concepts of different levels are mixed. For example, comparing to HTML pages (high-level 
+  concept) and checking CSS classes of divs (low-level concept).
+* You want to write a comment to explain the parts of a function. Perhaps it is better to split 
+  the function into several sub-functions?
+* You start to insert empty lines to separate logically differing parts of the function.
+* Too many local variables (or fields in a class) needed.
 
 ## Clean up before every commit
 
