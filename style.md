@@ -115,24 +115,33 @@ Typical cases (code smells) when you want to split a function or class into two:
   and formatting in the same function (user interface).
 * An "and word" in the name.
 * The code of the function is longer than one screen (over 120 lines).
-* Concepts of different levels are mixed. For example, comparing to HTML pages (high-level 
-  concept) and checking CSS classes of divs (low-level concept).
-* You want to write a comment to explain the parts of a function. Perhaps it is better to split 
-  the function into several sub-functions?
+* Concepts of different levels are mixed. For example, comparing to HTML pages (high-level concept)
+  and checking CSS classes of divs (low-level concept).
+* You want to write a comment to explain the parts of a function. Perhaps it is better to split the
+  function into several sub-functions?
 * You start to insert empty lines to separate logically differing parts of the function.
 * Too many local variables (or fields in a class) needed.
 
 ## Clean up before every commit
 
-TODO:
+You should not leave cleanup for later. Rather, do small cleanup before every new commit into the
+version control. In this way you will only commit clean code into your repository. It will always
+look nice. Another benefit - instead of spending hours on one long and boring cleanup, you will
+spend several portions of max 5min cleanups. This is psychologically much easier to do.
 
-* Clean up before every commit
-* Add references to copied code
-* No com.example packages
-* Remove unused imports
-* Update comments
-* Run checkstyle and SonarLint
-* Fix indentation
+Remember to do the following before every commit:
+
+* In case you have copied some code online (or from ChatGPT), add a reference to it. It is enough
+  adding a comment "Code adapter from <sourceUrlHere>"
+* Make sure you have correct package names. In case you copied whole files from somewhere, rename
+  the packages, don't leave `com.example`, etc.
+* Remove unused imports (top of the file).
+* Update documentation and comments. In case you changed some logic, check if the comments are still
+  relevant.
+* Run [Checkstyle](https://checkstyle.sourceforge.io/)
+  and [SonarLint](https://docs.sonarcloud.io/improving/sonarlint/), fix the issues they suggest.
+  Most of their suggestions make sense.
+* Fix indentation of the code.
 
 ## Get the dependencies right
 
