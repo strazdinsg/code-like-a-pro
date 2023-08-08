@@ -143,6 +143,12 @@ Remember to do the following before every commit:
   Most of their suggestions make sense.
 * Fix indentation of the code.
 
+## Folder and file naming
+
+TODO - folder structure should make it clear what is found where
+TODO - remove all temporary experimental code, don't store "project New", "project 2", etc.
+TODO - if needed, create "experiments" or "sandbox" folder
+
 ## Get the dependencies right
 
 TODO:
